@@ -1,4 +1,4 @@
-### REGRESSÃO POLINOMIAL - SCILAB
+### REGRESSÃO POLINOMIAL - SCILAB 6.1.0
 
 Usando o conjunto de dados aerogerador.dat (variável de entrada (primeira coluna): velocidade do vento - m/s; variável de saída (segunda coluna): potência gerada - kWatts), determine os modelos de regressão polinomial (graus 1 até 5) com parâmetros estimados pelo método dos mínimos quadrados. Avalie a qualidade de cada modelo pela métrica R² e R²ajustado.
 
